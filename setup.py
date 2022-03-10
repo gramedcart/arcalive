@@ -6,7 +6,7 @@ with open("README.md", "r", encoding='UTF-8') as fh:
 setuptools.setup(
     name="arcalive",  # Replace with your own username
     version="0.5.0",
-    author="sziya",
+    author="gramedcart",
     description="Arca.live API",
     long_description=long_description,
     long_description_content_type="text/markdown",
